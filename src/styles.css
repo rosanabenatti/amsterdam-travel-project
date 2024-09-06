@@ -1,7 +1,3 @@
-h1 {
-  font-family: "Poppins", sans-serif;
-  font-size: 96px;
-  font-weight: 700;
-  line-height: 144px;
-  text-align: left;
+header {
+  background-image: url("../images/amsterdam-hero.jpg");
 }
