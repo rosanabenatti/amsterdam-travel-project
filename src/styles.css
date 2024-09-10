@@ -59,7 +59,13 @@ header a {
   text-decoration: none;
 }
 
-@media (max-width: 900px) {
+footer {
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+    url("../images/dancing-houses.jpg");
+}
+
+@media (max-width: 960px) {
   header {
     padding: 60px 0;
   }
